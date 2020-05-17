@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-scully-app"
+    }
+  },
+  "defaultProject": "my-scully-app",
+  "cli": {
+    "analytics": false
+  }
 }
